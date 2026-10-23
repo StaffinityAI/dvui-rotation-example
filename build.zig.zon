@@ -1,0 +1,13 @@
+.{
+    .name = .dvui_rotation_example,
+    .version = "0.0.1",
+    .dependencies = .{
+        .dvui = .{
+            .url = "git+https://github.com/StaffinityAI/dvui#b0035cc2bdcd0a1f58d149c7da9144cada96a4ae",
+            .hash = "dvui-0.6.0-dev-AQFJmU2DBAHUhfeVThbtuXt34CwCNMss1RNj2YNdnguJ",
+        },
+    },
+    .minimum_zig_version = "0.17.0",
+    .paths = .{""},
+    .fingerprint = 0x7e4c16e4e678401,
+}
