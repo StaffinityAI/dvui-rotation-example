@@ -11,4 +11,3 @@ STATE_DIRECTORY=$PWD zig build run
 ```
 
 Check that clicks, slider drags and text input hit the right widgets in every rotation.
-# dvui-rotation-example
