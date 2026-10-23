@@ -3,8 +3,10 @@
     .version = "0.0.1",
     .dependencies = .{
         .dvui = .{
-            .url = "git+https://github.com/StaffinityAI/dvui#b0035cc2bdcd0a1f58d149c7da9144cada96a4ae",
-            .hash = "dvui-0.6.0-dev-AQFJmU2DBAHUhfeVThbtuXt34CwCNMss1RNj2YNdnguJ",
+            .url = "git+https://github.com/StaffinityAI/dvui#ec1e298283a3f8366ce0ec53a43dab942f883673",
+            .hash = "dvui-0.6.0-dev-AQFJmUp-BAFyr3kbx7B-vbFw_e9GtwylLV8HwgWu2Wkn",
+            // Build against the local checkout instead:
+            // .path = "../",
         },
     },
     .minimum_zig_version = "0.17.0",
